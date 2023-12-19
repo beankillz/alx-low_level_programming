@@ -9,9 +9,10 @@ int main(void)
 {
 const char *message = "\"Programming is like building a multilingual puzzle";
 
-fputs(message);
-fputs(stderr)
+puts(message);
+stderr;
 
+	
 return (0);
 }
 
