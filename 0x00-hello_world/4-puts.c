@@ -9,7 +9,8 @@ int main(void)
 {
 const char *message = "\"Programming is like building a multilingual puzzle";
 
-fputs(message, stderr);
+fputs(message);
+fputs(stderr)
 
 return (0);
 }
