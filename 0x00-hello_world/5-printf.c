@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main -  Using the printf function to print a command.
+ * main -  Entry point
  * Return - Returns 0 on success
  */
 int main(void)
@@ -10,5 +10,5 @@ printf("with proper grammar, but the outcome is a piece of art,\n");
 
 
 
-return (0);	
+return (0);
 }
