@@ -5,7 +5,7 @@
  * Return - Always 0 (Success)
  */
 int main(void)
-
+//Return 0 if successful
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
 
