@@ -12,7 +12,6 @@ const char *message = "\"Programming is like building a multilingual puzzle";
 puts(message);
 stderr;
 
-	
 return (0);
 }
 
