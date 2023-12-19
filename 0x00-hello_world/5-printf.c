@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * Using the printf function to print a command.
- * Returns 0 on success
+ * main -  Using the printf function to print a command.
+ * Return - Returns 0 on success
  */
 int main(void)
 {
