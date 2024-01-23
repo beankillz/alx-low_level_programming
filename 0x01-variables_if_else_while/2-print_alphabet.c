@@ -4,12 +4,13 @@
  *
  * return: Always 0 (Success)
  */
-int main(void)
+int main()
 {
 	char al;
-	for (al = 'a'; al <= 'z'; al++){
+	
+	for (al = 'a'; al <= 'z'; al++)
+	{
 		putchar(al);
-		putchar('\n');
 	}
 	return (0);
 }
