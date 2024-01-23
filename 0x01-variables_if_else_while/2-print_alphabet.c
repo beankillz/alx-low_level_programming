@@ -12,5 +12,6 @@ int main()
 	{
 		putchar(al);
 	}
+	putchar('\n');
 	return (0);
 }
